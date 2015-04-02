@@ -14,9 +14,34 @@ body {
 	height: 100%;
 	margin: 0px;
 	padding: 0px;
-	font-family: Tahoma;
+	font-family: Arial, 'san serif';
 }
 
 img {
 	border: 0px;
+}
+
+h1 {
+	display: block;
+	font-size: 2em;
+	margin: 0px;
+	padding: 0.5em 0px;
+}
+
+p {
+	display: block;
+	font-size: 1em;
+	margin: 1em 0px;
+	padding: 0px;
+}
+
+#container {
+	width: 50%;
+	margin: auto;
+}
+
+.clearfix {
+	height: 1px;
+	float: left;
+	clear: both;
 }
