@@ -1,2 +1,2 @@
-# template
-A simple web page template that I use as a starting point for my miscellaneous projects/prototypes. 
+# Starting Boilerplate
+This is a template for the basic stuff I typically make when I'm starting out creating a simple HTML/CSS/javascript application or prototype. 
