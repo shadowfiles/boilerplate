@@ -35,6 +35,15 @@ p {
 	padding: 0px;
 }
 
+a, a:active, a:link, a:visited {
+	text-decoration: none;
+	color: #132DE5;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
 #container {
 	width: 50%;
 	margin: auto;
